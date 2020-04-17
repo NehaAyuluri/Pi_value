@@ -14,3 +14,6 @@ Change Kernel type to Pyspark by clicking on *Kernel* and select *Pyspark*
 Select Spark Job Progress to know the elapsedtime to run the application. 
 ![image](https://user-images.githubusercontent.com/56847819/79589085-d8e27b00-80a2-11ea-85c1-f8d40801c21f.png)
 
+Change the number of partitions in your code and see how that effects the elapsedtime. 
+
+We can reduce the elapsedtime for high number of partitions by changing the number of nodes in core and task while creating the cluster. 
