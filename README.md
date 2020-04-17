@@ -7,4 +7,6 @@ Here we are creating a new cluster while creating the notebook itself with a sin
 Keep all other settings at default and click on *Create Notebook*
 Wait for the status of notebook to change from *pending* to *ready*. Once it is ready *open jupyter notebook*
 Change Kernel type to Pyspark by clicking on *Kernel* and select *Pyspark*
-Select Spark Job Progress to know the elapsedtime to run the application.  
+Select Spark Job Progress to know the elapsedtime to run the application. 
+![image](https://user-images.githubusercontent.com/56847819/79589085-d8e27b00-80a2-11ea-85c1-f8d40801c21f.png)
+
